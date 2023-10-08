@@ -12,5 +12,5 @@ export function App() {
         fontSize={'28'}
       >Teste vocacional</Text>
     </Box>
-  )
+  );
 }
